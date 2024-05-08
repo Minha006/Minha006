@@ -3,7 +3,7 @@
 
  👀🔮Eyes on the prize! I'm always curious and constantly learning new things, especially in the world of Web Development.
 
-🚀📈Growing every day!  I'm currently diving deep into React.js and Backk-end Development.
+🚀📈Growing every day!  I'm currently diving deep into React.js and Back-end Development.
 
 📑🤝🏽Collaboration is a key!  I'm always down to team up on cool projects.  Hit me up if you have an idea and need a Front-end wizard!
 
